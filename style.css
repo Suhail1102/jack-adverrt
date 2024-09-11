@@ -43,7 +43,6 @@
   }
   
   .headers .block-1{
-    
     flex-basis: 45%;
   }
   .headers .block-1 img{
@@ -75,8 +74,9 @@
   }
   .about-cont{
   
- background: #fffff8;;
-  }
+ background: #fffff8;
+}
+  
   .about-cont p{
     font-size: 25px;
     line-height: 3rem;
